@@ -4,13 +4,13 @@ rotki Usage Guide
   :maxdepth: 2
 
 
-Introduction
+Introduction.Y esto deberia salir en negrita
 *************
 
-In this section we are going to see how to use various parts of the rotki application.
+In this section we are going to see how to use various parts of the rotki application. esta es una edicion de prueba
 
 
-First time sign-up
+First time sign-up. 
 ====================
 
 When you start rotki you are greeted with a sign-in/signup prompt.
